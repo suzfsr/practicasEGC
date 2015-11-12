@@ -1,0 +1,9 @@
+1) Cree un repositorio denominado "pruebas"
+
+2) Añada tres ficheros en el lenguaje que queramos.
+El primero debe de contar del 1 al 15
+El primero debe de contar del 16 al 20
+El primero debe de contar del 21 al 30
+3) Aplique los acmbios al servidor
+4) Revierta el ultimo cambio con el que se añade el fichero que cuenta de 21 a 30
+5) Del repositorio del profesor test051115, indique porqué razón está la linea 1 en el fhichero holamundo.py
